@@ -228,4 +228,13 @@ section button{
     header .swiper-wrapper .swiper-slide{
         height: 50vh;
     }
+    
+    header .swiper{
+        margin: 0;
+    }
+
+    section img{
+        width: 290px;
+        height: 290px;
+    }
 }
